@@ -1,4 +1,4 @@
-# AuditLens_Python
+# AuditLens
 Python code that simulates the situation where senior management and auditors uncover insights via data analytics and visualizations. It includes designing a dashboard, generating KPIs, and creating a risk aggregation model.
 
 ![alt text](https://github.com/gaptab/AuditLens_Python/blob/main/dashboard.png)
